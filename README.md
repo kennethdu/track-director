@@ -12,6 +12,7 @@ A website to help users decide what programming language to learn
 
 * Clone this repository from https://github.com/kennethdu/track-director.git
 * Open up the folder and open index.html file
+* Fill out the questionnaire to figure out the type of programming language the user should learn
 
 
 ## Support and contact details
