@@ -16,8 +16,9 @@ $(document).ready(function(){
       
 	  
 	  
-		if (result==6) {
+		if (result===5 || result==6 || result==7) {
 		alert("YOU SHOULD STUDY React");
+		.show(#react)
 		} 
 
 		else if (result === 8) {
