@@ -18,15 +18,17 @@ $(document).ready(function(){
 	  
 		if (result===5 || result==6 || result==7) {
 		alert("YOU SHOULD STUDY React");
-		.show(#react)
+		$('#react').show()
 		} 
 
 		else if (result === 8) {
 		alert("YOU SHOULD STUDY Ruby");
+		$('#net').show()
 		}
 
 		else if (result === 9) {
 		alert("YOU SHOULD STUDY .Net");
+		$('#ruby').show()
 
 		}
 
