@@ -16,16 +16,16 @@ $(document).ready(function(){
       
 	  
 	  
-		if (result === 5) {
-		alert("YOU SHOULD STUDY........");
+		if (result==6) {
+		alert("YOU SHOULD STUDY React");
 		} 
 
-		else if (result === 10) {
-		alert("YOU SHOULD STUDY........");
+		else if (result === 8) {
+		alert("YOU SHOULD STUDY Ruby");
 		}
 
-		else if (result === 15) {
-		alert("YOU SHOULD STUDY........");
+		else if (result === 9) {
+		alert("YOU SHOULD STUDY .Net");
 
 		}
 
